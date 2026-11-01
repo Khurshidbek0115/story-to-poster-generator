@@ -1,0 +1,1 @@
+Researchers at Gachon University in Seongnam announced a remarkable open-source breakthrough combining Hugging Face Transformers and OpenCV computer vision. Led by Dr. Jihoon Park in collaboration with OpenAI and Google engineers in California, the new visual intelligence platform empowers students and developers worldwide with fast, reliable, and inspiring creative tools.
